@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pathfined.App", "Pathfined.App\Pathfined.App.csproj", "{46AA0147-BCA4-425A-A129-4032CD1C0232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pathfinder.Core", "Pathfinder.Core\Pathfinder.Core.csproj", "{29690B27-D8D1-43F6-AFA9-5755A7606DB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46AA0147-BCA4-425A-A129-4032CD1C0232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AA0147-BCA4-425A-A129-4032CD1C0232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AA0147-BCA4-425A-A129-4032CD1C0232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AA0147-BCA4-425A-A129-4032CD1C0232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29690B27-D8D1-43F6-AFA9-5755A7606DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29690B27-D8D1-43F6-AFA9-5755A7606DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29690B27-D8D1-43F6-AFA9-5755A7606DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29690B27-D8D1-43F6-AFA9-5755A7606DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
